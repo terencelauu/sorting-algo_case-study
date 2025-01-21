@@ -1,6 +1,6 @@
 # Sorting Algorithm 
 
-### Problem 1
+### Problem 1 - Priority-Based Scheduling (Combined with Elements of Greedy Algorithm) & Backtracking Algorithm with Priority Consideration
 
 Allocating medical staff, equipment, and facilities optimally to provide quality healthcare services while balancing patient demand and operational efficiency is a critical resource allocation problem in healthcare management.
 
@@ -33,7 +33,7 @@ Table 3: List of patients requiring treatment
 
 <br>
 
-### Problem 2
+### Problem 2 - Dijkstra’s Algorithm & Bellman-Ford Algorithm
 
 The packet forwarding problem in network routing refers to the challenge of determining the best path or route for data packets to travel from a source to their intended destination within a network. It involves making decisions at each network node (routers or switches) regarding how to efficiently forward incoming packets toward their target destination.
 
