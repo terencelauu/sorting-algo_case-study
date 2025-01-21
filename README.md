@@ -30,3 +30,29 @@ Table 3: List of patients requiring treatment
 | P003       | Emily Johnson | Cardiology         |
 | P004       | Tom Miller    | Surgery            |
 | P005       | June Larson   | Surgery            |
+
+<br>
+
+### Problem 2
+
+The packet forwarding problem in network routing refers to the challenge of determining the best path or route for data packets to travel from a source to their intended destination within a network. It involves making decisions at each network node (routers or switches) regarding how to efficiently forward incoming packets toward their target destination.
+
+Propose two algorithms for packet forwarding. Table 4 shows an example of connected network nodes for demonstration. You can assume the packet can travel anywhere within the network and factors such as traffic load and link quality can effect routing performance.
+
+Table 4: Network routing
+| Node ID | Node Name | Connected Nodes   | Traffic Load | Link Quality |
+|---------|-----------|-------------------|--------------|--------------|
+| 001     | Router-A  | 002, 003, 004     | High         | Good         |
+| 002     | Router-B  | 001, 003          | Medium       | Fair         |
+| 003     | Router-C  | 001, 002, 004     | High         | Excellent    |
+| 004     | Router-D  | 001, 003          | Low          | Poor         |
+
+• Node ID: Unique identifier for each network node (router).
+
+• Node Name: Name or label for the network node.
+
+• Connected Nodes: IDs of nodes directly connected to the current node.
+
+• Traffic Load: Current traffic load on the node (e.g., high, medium, low).
+
+• Link Quality: Quality of the connections between nodes (e.g., excellent, good, fair, poor).
