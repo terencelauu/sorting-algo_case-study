@@ -1,4 +1,4 @@
-# Sorting Algorithm 
+# Sorting Algorithm (Case Study)
 
 ### Problem 1 - Priority-Based Scheduling (Combined with Elements of Greedy Algorithm) & Backtracking Algorithm with Priority Consideration
 
